@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **PaulBecerra/PaulBecerra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center" width="300">
+   <img align="center" width="200" src="https://i.imgur.com/RkzrvxQ.png " />
+   <h3 align="center">Hi there👋 I'm Paul! </h3>
+</p>
+
+<p align="center">I'm currently studying a bachelor's degree in Software engineering<br />I've learned Java, Node, Kotlin, R...</p>
